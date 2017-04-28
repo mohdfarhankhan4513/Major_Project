@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "314753460562",
+    "firebase_url": "https://multilingualmessenger.firebaseio.com",
+    "project_id": "multilingualmessenger",
+    "storage_bucket": "multilingualmessenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314753460562:android:3691e563f08facff",
+        "android_client_info": {
+          "package_name": "trainedge.multilingualmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314753460562-sivu1mj5vj5mvruvapf214u06pfe0vgm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trainedge.multilingualmessenger",
+            "certificate_hash": "495e571a93cd2eddca98f7d8703bae987b040885"
+          }
+        },
+        {
+          "client_id": "314753460562-oj93mc9db3kul1r3o0lq0npm2ias3sqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6jmsQjGaU-cvM5bAFSNiOUuBkPJsByOs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314753460562-oj93mc9db3kul1r3o0lq0npm2ias3sqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
