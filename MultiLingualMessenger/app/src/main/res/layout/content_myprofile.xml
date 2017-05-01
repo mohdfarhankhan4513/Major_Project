@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/mmb"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="trainedge.multilingualmessenger.Myprofile"
     tools:showIn="@layout/activity_myprofile">
@@ -12,9 +13,10 @@
         android:id="@+id/imageView"
         android:layout_width="150dp"
         android:layout_height="150dp"
-        android:layout_marginTop="48dp"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp"
+        android:background="@android:drawable/star_on" />
 
     <TextView
         android:id="@+id/name"
@@ -23,6 +25,7 @@
         android:layout_below="@+id/imageView"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="30dp"
+        android:text="Mohd Farhan Khan"
         android:textAlignment="center"
         android:textSize="20sp" />
 
@@ -34,6 +37,7 @@
         android:layout_below="@+id/name"
         android:layout_marginTop="20dp"
         android:fontFamily="sans-serif"
+        android:text="mohdf4513@gmail.com"
         android:textAlignment="center"
         android:textColor="#cb6716"
         android:textSize="25sp" />
